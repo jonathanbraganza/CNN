@@ -1,0 +1,11 @@
+streamlit
+tensorflow
+numpy
+pandas
+scikit-learn
+opencv-python
+lime
+scikit-image
+matplotlib
+seaborn
+lime
